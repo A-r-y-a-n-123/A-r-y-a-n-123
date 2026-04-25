@@ -31,7 +31,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/aryan-karki-242073306/)
+[LinkedIn](https://www.linkedin.com/in/aryan-karki-242073306/)  
 aryanbkarki30@gmail.com
 
 
