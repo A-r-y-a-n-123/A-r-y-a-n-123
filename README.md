@@ -32,6 +32,6 @@
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/aryan-karki-242073306/)
-[Email](mailto:aryanbkarki30@gmail.com)
-
 📧 aryanbkarki30@gmail.com
+
+
