@@ -33,3 +33,5 @@
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-karki-242073306/)
 [![Email](https://img.shields.io/badge/Email-Send-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryanbkarki30@gmail.com)
+
+[Send Email](mailto:aryanbkarki30@gmail.com)
